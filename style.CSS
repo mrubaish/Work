@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+    font-family: "poppins";
+}
+.ancor-1{
+    margin-left: 700px;
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+    padding: 10px;
+}
+button{
+    width: 150px;
+    height: 30px;
+    background-color:#ffbe1b ;
+    border: none;
+    outline: none;
+}
+.a{
+    margin-left: 30px;
+}
+.Navbar{
+    display: flex;
+    align-items: center;
+    margin-left: 55px;
+}
+.rubaish{
+    width: 90%;
+    margin-left: 55px;
+}
+.contaner{
+    background-image: url(./image/image\ copy.png);
+    width: 100%;
+    height: 90Vh;
+    background-repeat: no-repeat;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.div{
+    width: 500px;
+height: 280px;
+background-color: white;
+margin-left: 30px;
+position: relative;
+top: 180px;
+}
+.class{
+    width: 255px;
+    height: 130px;
+}
+.third-rub{
+    position: relative;
+    bottom: 100px;
+    left: 140px;
+    border: 1px solid black;
+    height: 350px;
+    width: 255px;
+    margin-top: 100px;
+}
+.rubaish-10{
+    display: flex;
+    margin-left: 50px;
+}
+.div-10{
+    font-size: 30px;
+    color: red;
+    margin-left: 58px;
+}
+.rubaish-9{
+    display: flex;
+}
+.rub-1{
+    position: relative;
+    bottom: 100px;
+    left: 140px;
+    border: 1px solid black;
+    height: 350px;
+    width: 255px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.rub-2{
+    position: relative;
+    bottom: 100px;
+    left: 140px;
+    border: 1px solid black;
+    height: 350px;
+    width: 255px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.rub-3{
+    position: relative;
+    bottom: 100px;
+    left: 140px;
+    border: 1px solid black;
+    height: 350px;
+    width: 255px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.rub-4{
+    position: relative;
+    bottom: 100px;
+    left: 140px;
+    border: 1px solid black;
+    height: 350px;
+    width: 255px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.rub-5{
+    position: relative;
+    bottom: 100px;
+    left: 140px;
+    border: 1px solid black;
+    height: 350px;
+    width: 255px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.para-pra{
+    margin-left: 35px;
+}
+.apply{
+    margin-left: 58px;
+}
+.rubaish{
+    display: flex;
+    margin-left: 180px;
+}
+.p09{
+    margin-left: 100px;
+}
+.p089{
+    margin-left: 100px;
+}
+.olo{
+    margin-left: 100px;
+}
+.icon{
+    font-size: 25px;
+    margin-left: 180px;
+}
+.name{
+    display: flex;
+}
+.img{
+   margin-left: 600px;
+}
+.img-3{
+    width:25px   
+}
+.hr{
+    display: flex;
+}
+.img-9{
+margin-left: 590px;
+}
+.contact{
+    margin-left: 180px;
+}
